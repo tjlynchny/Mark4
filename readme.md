@@ -1,5 +1,3 @@
-    @page { size: 8.5in 11in; margin: 0.79in } p { line-height: 115%; margin-bottom: 0.1in; background: transparent } td p { orphans: 0; widows: 0; background: transparent }
-
 **Mark4 DCC Wi-Fi Throttle**
 
  [Mark4 Throttle](mark4.png) 
